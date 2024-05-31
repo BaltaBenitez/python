@@ -1,0 +1,6 @@
+# Ignorar la carpeta ref
+ref/
+
+# Ignorar archivos 
+listas.py
+variables.py
