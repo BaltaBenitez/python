@@ -3,4 +3,4 @@ ref/
 
 # Ignorar archivos 
 listas.py
-variables.py
+vars.py
